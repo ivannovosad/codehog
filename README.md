@@ -1,3 +1,6 @@
+
+<img width="751" height="260" alt="codehog_logo_small" src="https://github.com/user-attachments/assets/dfd37221-2ea7-4584-9a0b-91390a77ecc5" />
+
 # 🐽 Code Hog - Your Friendly Code Smell Companion
 
 A friendly truffle pig that sniffs out design principle violations in your codebase.
