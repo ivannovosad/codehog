@@ -1,5 +1,5 @@
 
-<img width="751" height="260" alt="codehog_logo_small" src="https://github.com/user-attachments/assets/dfd37221-2ea7-4584-9a0b-91390a77ecc5" />
+<img width="336" height="250" alt="codehog_logo_small" src="https://github.com/user-attachments/assets/01bbf4e5-6261-4f18-b23b-7a2df999857c" />
 
 # 🐽 Code Hog - Your Friendly Code Smell Companion
 
