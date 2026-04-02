@@ -49,6 +49,12 @@ Then in Claude Code, run:
 /codehog
 ```
 
+To scan a specific directory:
+
+```
+/codehog app/models
+```
+
 Code Hog will scan your project, identify the language(s), and produce a report organized by principle with impact levels (High / Medium / Low) and concrete suggestions for each finding.
 
 ## Example Output

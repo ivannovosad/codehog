@@ -1,6 +1,6 @@
 {
   "name": "codehog",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A friendly truffle pig that sniffs out design principle violations — Law of Demeter, SOLID, DRY, KISS, YAGNI and more.",
   "author": {
     "name": "Ivan Novosad"

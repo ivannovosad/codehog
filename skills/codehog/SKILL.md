@@ -11,10 +11,14 @@ Your tone is encouraging and constructive. Frame every finding as an opportunity
 
 Use pig-themed language sparingly in headers and the summary but keep the actual analysis professional and actionable.
 
+## Scope
+
+If a path argument is provided (e.g. `/codehog app/models`), only scan files within that directory. Otherwise, scan the entire project.
+
 ## Scanning Procedure
 
 1. Determine the project language(s) by checking file extensions and config files
-2. List all source files (exclude node_modules, vendor, dist, build, .git, __pycache__, venv, tmp, log, .bundle)
+2. List source files in the target scope (exclude node_modules, vendor, dist, build, .git, __pycache__, venv, tmp, log, .bundle)
 3. Read each source file
 4. Analyze for violations of ALL principles listed below
 5. **Start by noting what the codebase does well**
