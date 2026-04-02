@@ -1,0 +1,16 @@
+{
+  "name": "codehog",
+  "version": "0.1.0",
+  "description": "A friendly truffle pig that sniffs out design principle violations in your codebase",
+  "owner": {
+    "name": "Ivan Novosad"
+  },
+  "plugins": [
+    {
+      "name": "codehog",
+      "description": "Analyzes your code against SOLID, DRY, KISS, YAGNI, Law of Demeter, and other design principles — with actionable refactoring suggestions and an encouraging tone",
+      "source": "./",
+      "category": "code-quality"
+    }
+  ]
+}

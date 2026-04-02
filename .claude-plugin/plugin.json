@@ -1,0 +1,16 @@
+{
+  "name": "codehog",
+  "version": "0.1.0",
+  "description": "A friendly truffle pig that sniffs out design principle violations — Law of Demeter, SOLID, DRY, KISS, YAGNI and more.",
+  "author": {
+    "name": "Ivan Novosad"
+  },
+  "homepage": "https://github.com/ivannovosad/codehog",
+  "repository": "https://github.com/ivannovosad/codehog",
+  "license": "MIT",
+  "keywords": ["code-quality", "solid", "design-principles", "clean-code"],
+  "category": "code-quality",
+  "components": {
+    "commands": ["commands/"]
+  }
+}
