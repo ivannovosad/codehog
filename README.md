@@ -25,37 +25,24 @@ Code Hog is a [Claude Code](https://docs.anthropic.com/en/docs/claude-code) plug
 
 ## Install
 
-### From GitHub
-
 In Claude Code, run:
 
 ```
-/plugin marketplace add ivannovosad/codehog
-/plugin install codehog
+/plugin marketplace add anthropics/claude-plugins-community
+/plugin install codehog@claude-community
 ```
 
-### Local install
-
-```
-git clone https://github.com/ivannovosad/codehog.git
-```
-
-Then in Claude Code, run:
-
-```
-/plugin install ./codehog
-```
 
 ## Usage
 
 ```
-/codehog
+/codehog:codehog
 ```
 
 To scan a specific directory:
 
 ```
-/codehog app/models
+/codehog:codehog app/models
 ```
 
 Code Hog will scan your project, identify the language(s), and produce a report organized by principle with impact levels (High / Medium / Low) and concrete suggestions for each finding.
